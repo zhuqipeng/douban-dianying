@@ -3,8 +3,8 @@
 
 
 ### 安装依赖库
-pip install -r requirement.txt
+>pip install -r requirement.txt
 
 
 ### 使用
-python index.py https://movie.douban.com/subject/4811813/
+>python index.py https://movie.douban.com/subject/4811813/
